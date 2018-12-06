@@ -1,6 +1,6 @@
 # Cache
 
-| number exp    | Buffer Size   |  Direct Time  | Revercse Time | Random Time   |
+| number exp    | Buffer Size   |  Direct Time  | Reverse Time | Random Time   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | №1            | 16            | 19            | 19            | 19            |
 | №2            | 32            | 38            | 38            | 38            |  
@@ -17,4 +17,6 @@
 | №13           | 65536         | 215806        | 230815        | 8859152       | 
 
 
-[direct](http://htmlpreview.github.io/?https://github.com/Tygydyk/Cache/blob/master/direct.html)
+[direct](http://htmlpreview.github.io/?https://github.com/Tygydyk/Cache/blob/master/direct.html),
+[reverse](http://htmlpreview.github.io/?https://github.com/Tygydyk/Cache/blob/master/reverse.html),
+[random](http://htmlpreview.github.io/?https://github.com/Tygydyk/Cache/blob/master/random.html).
