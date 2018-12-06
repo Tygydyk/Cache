@@ -15,3 +15,6 @@
 | №11           | 16384         | 19996         | 21525         | 779710        |
 | №12           | 32768         | 106029        | 113424        | 3803636       |
 | №13           | 65536         | 215806        | 230815        | 8859152       | 
+
+
+[direct]http://htmlpreview.github.io/?https://github.com/Tygydyk/Cache/blob/master/direct.html
